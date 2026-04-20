@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 1200,
       "messages": [
         "I'm a regular player",
@@ -83,6 +83,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
