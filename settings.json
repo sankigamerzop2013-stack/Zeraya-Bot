@@ -1,13 +1,14 @@
 {
   "name": "Zeraya Bot",
   "bot-account": {
-    "username": "ZerayaTheBot",
+    "username": "SankiBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Zeraya.aternos.me",
-    "port": 56505,
+    "ip": "SOULREAPERMC.aternos.me",
+    
+    "port": 18339,
     "version": "1.21.11",
     "try-creative": false
   },
